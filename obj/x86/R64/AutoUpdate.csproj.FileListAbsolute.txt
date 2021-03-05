@@ -1,0 +1,8 @@
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\bin\x86\R64\AutoUpdate.exe
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\bin\x86\R64\AutoUpdate.pdb
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\x86\R64\AutoUpdate.Form1.resources
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\x86\R64\AutoUpdate.Properties.Resources.resources
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\x86\R64\AutoUpdate.csproj.GenerateResource.cache
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\x86\R64\AutoUpdate.csproj.CoreCompileInputs.cache
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\x86\R64\AutoUpdate.exe
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\x86\R64\AutoUpdate.pdb

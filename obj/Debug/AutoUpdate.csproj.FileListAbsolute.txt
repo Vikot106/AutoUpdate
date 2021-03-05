@@ -1,0 +1,9 @@
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csprojAssemblyReference.cache
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.cache
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.exe
+E:\TecFile\C#Project\AutoUpdate\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb
